@@ -3,14 +3,14 @@
  * M_G_X softwares.
  *
  * @package   WPMGX\Main
- * @version   3.7.0
+ * @version   3.8.0
  * @wordpress-plugin
  * Plugin Name: Custom Tables
  * Description: Adds custom tables to the WordPress database. 
  * Author: !-CODE By M_G_X CEO & Founder | <a href="https://unknown-sudo-max.github.io/zone/!-CODE/LICENSE-AGREEMENT.html" onclick="window.open(this.href, '_blank'); return false;">The license</a>
  * License: !-CODE LICENSE-AGREEMENT
  * License URI:https://unknown-sudo-max.github.io/zone/!-CODE/LICENSE-AGREEMENT.html
- * Version:     3.7.0
+ * Version:     3.8.0
  * Text Domain: custom-tables
  * GitHub Plugin URI: https://unknown-sudo-max.github.io/custom-tables
  * GitHub Repository : unknown-sudo-max.github.io/custom-tables
@@ -33,9 +33,9 @@
 // $plugin_basename = plugin_basename(__FILE__);
 
 // Define your plugin version manually
-// $plugin_version = 'v3.7.0'; // Replace with your actual plugin version
+// $plugin_version = '3.8.0'; // Replace with your actual plugin version
 // $github_username = 'unknown-sudo-max';
-// $github_repo = 'releases';
+// $github_repo = 'custom-tables';
 // $plugin_basename = plugin_basename(__FILE__);
 
 // // Start a session
@@ -81,7 +81,7 @@
 
 // Define your plugin version manually
 // Define your plugin version manually
-$plugin_version = '3.7.0'; // Replace with your actual plugin version
+$plugin_version = '3.8.0'; // Replace with your actual plugin version
 $github_username = 'unknown-sudo-max';
 $github_repo = 'custom-tables';
 $plugin_basename = plugin_basename(__FILE__);
