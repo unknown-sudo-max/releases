@@ -3,7 +3,7 @@ Contributors: unknown-sudo-max
 Tags: custom tables, database, WordPress, plugin
 Requires at least: 5.0
 Tested up to: 5.8
-Stable tag: 3.7.0
+Stable tag: 3.8.0
 
 
 == Description ==
@@ -36,6 +36,9 @@ Custom Tables provides a user-friendly interface for creating and managing custo
 For detailed instructions and documentation, please visit the [official plugin documentation](https://unknown-sudo-max.github.io/custom-tables).
 
 == Changelog ==
+= 3.8.0 =
+* Added support for new features.
+* Improved performance and stability.
 
 = 3.7.0 =
 * Added support for new features.
